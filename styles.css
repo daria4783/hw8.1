@@ -1,0 +1,16 @@
+.text-box > h3:first-child {
+    color: pink;
+    
+}
+.text-box > .yellow {
+    color: yellow;
+}
+div > p:last-child {
+    color: red;
+}
+div > p:nth-child(3) {
+    color: gray;
+}
+p {
+    color: green;
+}
